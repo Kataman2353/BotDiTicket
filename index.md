@@ -20,5 +20,7 @@ Voici la présentation de la première version du bot.Si vous avez des problème
 ### Les liens
 
 Inviter le bot : [[ici]](https://discordapp.com/api/oauth2/authorize?client_id=566567378327044106&permissions=8&scope=bot)
+
 Voter pour le bot : [[ici]](https://discordbots.org/bot/566567378327044106/vote)
+
 Le serveur support : [[ici]](https://discord.gg/3y7u9Dc)
