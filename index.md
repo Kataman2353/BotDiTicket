@@ -1,9 +1,10 @@
-## Présentation du bot [![Discord Bots](https://discordbots.org/api/widget/566567378327044106.svg)](https://discordbots.org/bot/566567378327044106) 
+## Présentation du bot
 
 BotDiTicket est un bot français privé seulement pour les serveurs de mes amis irl ou non. C’est pour le moment un bot de gestion de ticket de support mais il fera aussi vers septembre modération, fun, utilitaire, jeux, informations bref il sera un bot multifonction très complet.
 
 C’est un bot privé mais il sera peut être publique disi septembre ! En attendant n’hésitez pas à me demander de rajouter des commandes pour votre serveur sur son support. Le bot est configurable à 100 %. c’est pour ça qu’une documentation complète est disponible pour bien tout vous expliquer.
 
+[![Discord Bots](https://discordbots.org/api/widget/566567378327044106.svg)](https://discordbots.org/bot/566567378327044106) 
 
 ## Documentation
 
