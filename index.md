@@ -17,7 +17,7 @@ Pour ouvrir un ticket vous pouvez maintenant faire `+new`, pour refermer un tick
 
 Voici la présentation de la première version du bot.Si vous avez des problèmes, des questions, des suggestions vous pouvez rejoindre le serveur support !
 
-### Les liens
+## Les liens
 
 Inviter le bot : [[ici]](https://discordapp.com/api/oauth2/authorize?client_id=566567378327044106&permissions=8&scope=bot)
 
