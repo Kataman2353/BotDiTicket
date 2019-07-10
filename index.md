@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Documentation de BotDiTicket
 
-You can use the [editor on GitHub](https://github.com/Kataman2353/botditicket/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+BotDiTicket est un bot français privé seulement pour les serveurs de mes amis irl ou non. C’est pour le moment un bot de gestion de ticket de support mais il fera aussi vers septembre modération, fun, utilitaire, jeux, informations bref il sera un bot multifonction très complet.
+
+C’est un bot privé mais il sera peut être publique disi septembre ! En attendant n’hésitez pas à me demander de rajouter des commandes pour votre serveur sur son support. Le bot est configurable à 100 %. c’est pour ça qu’une documentation complète est disponible pour bien tout vous expliquer.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
