@@ -6,7 +6,7 @@ C’est un bot privé mais il sera peut être publique disi septembre ! En atte
 
 [![Discord Bots](https://discordbots.org/api/widget/566567378327044106.svg)](https://discordbots.org/bot/566567378327044106) 
 
-## Documentation
+## Documentation du bot
 
 Mon fonctionnement est très simple.
 Assurez vous dabord que j’ai les permissions `gérer les rôles` et `gérer les salons`.
@@ -18,7 +18,7 @@ Pour ouvrir un ticket vous pouvez maintenant faire `+new`, pour refermer un tick
 
 Voici la présentation de la première version du bot.Si vous avez des problèmes, des questions, des suggestions vous pouvez rejoindre le serveur support !
 
-## Les liens
+## Liens du bot
 
 Inviter le bot : [[ici]](https://discordapp.com/api/oauth2/authorize?client_id=566567378327044106&permissions=8&scope=bot)
 
