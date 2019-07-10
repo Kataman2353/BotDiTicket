@@ -7,7 +7,7 @@ C’est un bot privé mais il sera peut être publique disi septembre ! En atte
 [![Discord Bots](https://discordbots.org/api/widget/566567378327044106.svg)](https://discordbots.org/bot/566567378327044106) 
 
 
-## Documentation du bot <img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+## Documentation du bot <img align="right" width="100" height="100" src="(https://discordbots.org/api/widget/566567378327044106.svg)](https://discordbots.org/bot/566567378327044106)/100/100">
 
 Mon fonctionnement est très simple.
 Assurez vous dabord que j’ai les permissions `gérer les rôles` et `gérer les salons`.
