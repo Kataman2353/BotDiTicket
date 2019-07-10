@@ -4,9 +4,11 @@ BotDiTicket est un bot français privé seulement pour les serveurs de mes amis 
 
 C’est un bot privé mais il sera peut être publique disi septembre ! En attendant n’hésitez pas à me demander de rajouter des commandes pour votre serveur sur son support. Le bot est configurable à 100 %. c’est pour ça qu’une documentation complète est disponible pour bien tout vous expliquer.
 
+<center>
 <a href="https://discordbots.org/bot/566567378327044106" >
   <img src="https://discordbots.org/api/widget/566567378327044106.svg" alt="BotDiTicket" />
 </a>
+</center>
 
 ## Documentation du bot
 
