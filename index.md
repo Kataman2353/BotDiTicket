@@ -6,7 +6,7 @@ C’est un bot privé mais il sera peut être publique disi septembre ! En atte
 
 [![Discord Bots](https://discordbots.org/api/widget/566567378327044106.svg)](https://discordbots.org/bot/566567378327044106) 
 
-<img align="right" width="100" height="100" src="(https://discordbots.org/api/widget/566567378327044106.svg)](https://discordbots.org/bot/566567378327044106)/100/100">
+<img align="right" width="100" height="100" src="https://discordbots.org/api/widget/566567378327044106.svg/100/100">
 
 ## Documentation du bot
 
